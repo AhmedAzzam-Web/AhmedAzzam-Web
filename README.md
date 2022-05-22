@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **react**
 
+- 🌱 I’m currently learning **next.js**
+
 - 📫 How to reach me **ahmedazzam.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
