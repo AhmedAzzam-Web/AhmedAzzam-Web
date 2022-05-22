@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Azzam</h1>
-<h3 align="center">A passionate frontend developer from Egybt</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedAzzam-Web](https://github.com/AhmedAzzam-Web)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **ahmedazzam.business@gmail.com**
-
-- ⚡ Fun fact **fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
