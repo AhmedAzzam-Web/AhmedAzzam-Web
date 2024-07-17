@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Azzam</h1>
-<h3 align="center">A passionate, skilled frontend developer</h3>
+<h3 align="center">passionate about DevOps Engineering && Embedded Software Engineering</h3>
 
-- 🌱 I’m currently learning **CCNA 200-301**
+- 🌱 I’m currently learning **AVR & DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedAzzam-Web](https://github.com/AhmedAzzam-Web)
 
-- 💬 Ask me about **IT Comptia A+ Next.js React.js JavaScript Front-End development**
+- 💬 Ask me about **C, Linux Shell, Docker, Kubernetes, **
 
 - 📫 How to reach me **ahmedazzam.business@gmail.com**
 
