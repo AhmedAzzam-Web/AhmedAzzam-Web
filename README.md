@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Azzam</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Azure, AWS**
+- 🌱 I’m currently learning **Azure-400, Azure-900, AWS**
 
-- 💬 Ask me about **C, Bash, Git, Linux, Docker, Kubernetes**
+- 💬 Ask me about ** Azure DevOps, C, Bash, Git, Linux, Docker, Kubernetes, Former Front-End engineer **
 
 - 📫 How to reach me **ahmedazzam.business@gmail.com**
 
