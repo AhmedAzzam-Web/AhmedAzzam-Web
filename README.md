@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Azure-400, Embedded System (AVR, ARM-Cortex), DSA**
 
-- 💬 Ask me about ** Azure DevOps, C, DSA, Bash, Git, Linux, Docker, Kubernetes, Former Front-End engineer **
+- 💬 Ask me about **CCNA, Azure DevOps, C, DSA, Bash, Git, Linux, Docker, Kubernetes, Former Front-End engineer **
 
 - 📫 How to reach me **ahmedazzam.business@gmail.com**
 
